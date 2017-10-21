@@ -11,9 +11,9 @@ def menu():
 ....##....##.....##.##.....##.##.......##....##.##....##
 ....##.....#######...#######..########..######...######.
 ========================================
-Created By AnonHacker
-Channel: youtube.com/kalinuxx
-Facebook: facebook.com/kalinuxtutorials
+Created By SANDEEP TECH
+Channel: youtube.com/SandeepTech
+Facebook: facebook.com/sandeepn95
 Ver: 2.0
 ----
 ONLY FOR TERMUX!
@@ -152,7 +152,7 @@ while loop:
             os.system("clear")
             print("========================================")
             print("[+] everything successfully installed :)")
-            print("[+] Happy Hacking <3")
+            print("[+] Sandeep Bhondwe <3")
             print("========================================")
         else:
             rmenu = input("[?] Back to Menu? (y/n): ")
